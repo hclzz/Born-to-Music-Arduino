@@ -1,7 +1,5 @@
 # Musical Chord Control with LEDs
 
-This project uses the ESP32 to control a WS2812 (RGB) LED matrix based on commands received via a WiFi network. It is designed to be used as a musical chord controller, where LEDs light up and flash to indicate the playing of chords on a guitar or acoustic guitar.
-
 ## Requirements
 
 - **Hardware:**
